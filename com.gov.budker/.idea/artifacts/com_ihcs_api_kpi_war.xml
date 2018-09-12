@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="com.ihcs.api.kpi:war">
+    <output-path>D:/IHCS Project/IHCS-Back-End-KPI/com.ihcs.api.kpi/target</output-path>
+    <root id="archive" name="com.ihcs.api.kpi-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="com.ihcs.api.kpi:war exploded" />
+    </root>
+  </artifact>
+</component>

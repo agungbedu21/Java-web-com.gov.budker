@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="com.ihcs.api.kpi:war exploded">
+    <output-path>D:/IHCS Project/IHCS-Back-End-KPI/com.ihcs.api.kpi/target/com.ihcs.api.kpi-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="com.ihcs.api.kpi" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="D:/IHCS Project/IHCS-Back-End-KPI/com.ihcs.api.kpi/target/com.ihcs.api.kpi-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="com.ihcs.api.kpi/web/Web" />
+    </root>
+  </artifact>
+</component>
